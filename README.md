@@ -13,6 +13,7 @@
   <img src="https://img.icons8.com/color/60/000000/gitlab.png"/>
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
   <img src="https://img.icons8.com/dusk/60/000000/postman-api.png"/>
+  <img src="https://img.icons8.com/color/60/000000/adobe-photoshop--v1.png"/>
   
 </div>
 
