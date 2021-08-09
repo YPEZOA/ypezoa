@@ -1,8 +1,6 @@
 ### Hi there 👋
-<a href="https://github.com/ypezoa/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
-</a>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight" />
 <!--
 **YPEZOA/ypezoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
