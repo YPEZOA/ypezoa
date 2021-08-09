@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Hi, I am Yusy Pezoa Jara 😄⚡ </h1>
-<h3> Skills: </h3>
+<h3> My skills: </h3>
 <div style="display: inline-block;">
   <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/angularjs.png"/>
