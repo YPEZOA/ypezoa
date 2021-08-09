@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Yusy Pezoa Jara 😄⚡
 <h1> Skills</h1>
 <div style="display: inline-block;">
   <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
