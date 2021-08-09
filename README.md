@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/ypezoa/convoychat">
-  <img align="center" src="../workspace/statsGitHub.svg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ypezoa&repo=ypezoa" />
 </a>
 
 <!--
