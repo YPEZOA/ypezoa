@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1> Skills </h1>
+<h1> Skills & Tools</h1>
 <div style="display: inline-block; margin: 5px;">
   <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/angularjs.png"/>
