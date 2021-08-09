@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="display: inline-block">
+<div style="display: inline-block; margin: 5px;">
   <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/sass.png"/>
 </div>
