@@ -19,8 +19,10 @@
 </div>
 
 <h1> Stats </h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
+<div style="display: inline-block;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight&show_icons=true" />
+</div>
 <!--
 **YPEZOA/ypezoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
