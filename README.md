@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight&show_icons=true" />
 <!--
