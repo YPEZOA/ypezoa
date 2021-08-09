@@ -8,6 +8,8 @@
   <img src="https://img.icons8.com/color/60/000000/css3.png"/>
   <img src="https://img.icons8.com/color/60/000000/sass.png"/>
 </div>
+
+<h1> Stats </h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight&show_icons=true" />
 <!--
