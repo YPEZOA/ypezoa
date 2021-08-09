@@ -10,6 +10,7 @@
   <img src="https://img.icons8.com/color/60/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/60/000000/gitlab.png"/>
   <img src="https://img.icons8.com/color/60/000000/git.png"/>
+  <img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
   
 </div>
 
