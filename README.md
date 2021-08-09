@@ -2,6 +2,9 @@
 <div style="display: inline-block; margin: 5px;">
   <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/60/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/60/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/css3.png"/>
   <img src="https://img.icons8.com/color/60/000000/sass.png"/>
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
