@@ -1,8 +1,10 @@
 ### Hi there 👋
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/50/000000/sass.png"/>
+<div style="display: inline-block">
+  <img src="https://img.icons8.com/color/60/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/sass.png"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight&show_icons=true" />
+</div>
 <!--
 **YPEZOA/ypezoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
