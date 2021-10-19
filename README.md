@@ -3,6 +3,7 @@
   <div style="display: inline-block;">
     <img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+    <img src="https://img.icons8.com/officel/50/000000/react.png"/>
     <img src="https://img.icons8.com/color/50/000000/typescript.png"/>
     <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/50/000000/css3.png"/>
