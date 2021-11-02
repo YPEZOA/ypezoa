@@ -22,7 +22,6 @@
 
   <h3> Stats: </h3>
   <div style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypezoa&theme=tokyonight" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight&show_icons=true" />
   </div>
 <!--
