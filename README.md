@@ -15,7 +15,6 @@
     <img src="https://img.icons8.com/color/50/000000/jira.png"/>
     <img src="https://img.icons8.com/dusk/50/000000/postman-api.png"/>
     <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
-    <img src="https://user-images.githubusercontent.com/15245298/27005570-5e25e8e0-4e21-11e7-9008-367b487f759c.png"/>
   </div>
 
   <h3> Stats: </h3>
