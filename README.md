@@ -16,11 +16,6 @@
     <img src="https://img.icons8.com/dusk/50/000000/postman-api.png"/>
     <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
   </div>
-
-  <h3> Stats: </h3>
-  <div style="display: inline-block;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ypezoa&theme=tokyonight&show_icons=true" />
-  </div>
 <!--
 **YPEZOA/ypezoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
