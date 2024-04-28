@@ -1,4 +1,4 @@
-  <h1 align="center">Hi, I am Yusy Pezoa Jara 😄⚡ </h1>
+  <h1 align="center">Hi, I am Yusy - ypezoadev 😄⚡ </h1>
   <h5 align="center">FRONT-END DEVELOPER</h5>
 <h3> My skills: </h3>
   <div style="display: inline-block;">
